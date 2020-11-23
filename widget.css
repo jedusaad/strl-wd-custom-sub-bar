@@ -1,0 +1,42 @@
+    #wrapper {
+        width: 100%
+    }
+
+    #text-wrapper {
+        text-transform: uppercase;
+        color: #FFFFFF;
+        font-family: myFirstFont;
+        font-size: 23px;
+        width: 100%;
+        padding-top: 10px;
+        text-align: center;
+        text-shadow: 0 0 0 #6a0dad, 
+        0 0 10px #6a0dad, 
+        1px 3px 10px #6a0dad, 
+        0 0 2px #e50b0b,
+        0 0 15px #fff7f7;
+    
+    }
+  
+    #bar-wrapper {
+        box-shadow:
+        0 0 0  0 #6a0dad,   
+        0 0 10px  6px #6a0dad, 
+        0 0   4vw  3px #e50b0b,
+        inset 0 0 1.5vw  0.4vw #e50b0b,
+        inset 0 0 0.4vw  0.2vw #e97272,
+        inset 0 0 0.5vw  0.2vw #fff7f7;
+        border-radius: 1.5rem;
+    }
+  
+    #bar {
+        padding: 0 3.5rem 0 3.5rem;
+        height: 2px;
+        background-color: #ffd8d8;
+        border-radius: 5px;
+                                                    
+        font-size: 14rem;
+        color: #ffd8d8;
+        padding: 0px;
+    }
+  

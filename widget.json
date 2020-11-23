@@ -1,0 +1,15 @@
+{
+    "totalGoal": {
+      "type": "number",
+      "label": "Meta",
+      "value": 100
+    },
+    "widgetName":{
+     "type":"hidden",
+     "value":"Metas de sub customizadas para bela"
+    },
+    "widgetAuthor":{
+      "type":"hidden",
+      "value":"jedusaad"
+    }
+  }
